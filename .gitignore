@@ -1,0 +1,25 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local editor settings and temporary files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.tmp
+
+# Local environment configuration
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+raw/
+
+# Internal project documentation
+/README.internal.md
